@@ -1,4 +1,7 @@
 # 🎬 Movie Recommendation System
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 A Machine Learning-based Movie Recommendation System that suggests movies using **Content-Based Filtering** and **Collaborative Filtering** techniques. The project analyzes movie genres and user ratings from the MovieLens dataset to generate personalized movie recommendations.
 
