@@ -103,7 +103,7 @@ Collaborative Filtering recommends movies based on user rating patterns.
 
 ### Genre Distribution
 
-![Genre Distribution](images/.png)
+![Genre Distribution](images/genre_distribution.png)
 
 ---
 
